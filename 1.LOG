@@ -1,0 +1,453 @@
+00000001	0.89287448	[68124] xkx:enter  into httpsmain	
+00000185	46.05291367	[63128] xkx:enter  into httpsmain	
+00000257	64.16834259	[68228] DlpNetProect dllmain	
+00000259	64.18022919	[68228] [SangforNspX64] [LoadSangforPrinterDll] Enter	
+00000260	64.18028259	[68228] [SangforNspX64] [spoolsv] is not spoolsv.exe	
+00000269	64.21242523	[68228] SMTP PORT :40000!	
+00000272	67.17893982	[68228] xkx:enter  into httpsmain	
+00000276	67.20761871	[68228] HTTPS PORT :55000!	
+00000277	67.21453094	[68228] C:\Program Files\Topsec\EndpointPlantform\config\CheckEngine\config\httppostwhitelist.txt	
+00000278	67.21491241	[68228] GetHttpPostWhiteToList  start -1-1-1-1	
+00000279	67.21497345	[68228] GetHttpPostWhiteToList  111	
+00000280	67.21501160	[68228] GetHttpPostWhiteToList  2222	
+00000281	67.21504974	[68228] GetHttpPostWhiteToList  111	
+00000282	67.21508789	[68228] GetHttpPostWhiteToList  2222	
+00000283	67.21548462	[68228] TePServer.exe	
+00000284	67.21551514	[68228] wget.exe	
+00000285	67.21555328	[68228] WXWork.exe	
+00000286	67.21558380	[68228] SogouCloud.exe	
+00000287	67.21562195	[68228] 360tray.exe	
+00000288	67.21565247	[68228] QQExternal.exe	
+00000289	67.21568298	[68228] QQ.exe	
+00000290	67.21572113	[68228] DSMain.exe	
+00000291	67.21575928	[68228] SofeupNotify.exe	
+00000292	67.21578979	[68228] sesvc.exe	
+00000293	67.21582031	[68228] WDSafeDown.exe 	
+00000294	67.21585083	[68228] SGTool.exe	
+00000295	67.21588135	[68228] PingyinUp.exe	
+00000296	67.21591949	[68228] QQLiveService.exe	
+00000297	67.21595001	[68228] WDSafeDown.exe	
+00000298	67.21598053	[68228] 360speedld.exe	
+00000299	67.21601868	[68228] WeChat.exe	
+00000300	67.21604919	[68228] WeChatWeb.exe	
+00000301	67.21608734	[68228] wps.exe	
+00000302	67.21614838	[68228] C:\Program Files\Topsec\EndpointPlantform\config\CheckEngine\config\httpblackiplist.txt	
+00000303	67.21679688	[68228] C:\Program Files\Topsec\EndpointPlantform\config\CheckEngine\config\httpiptimeoutlist.txt	
+00000304	67.22259521	[68228] start create sAcceptConnectons	
+00000305	67.23455048	[68228] DLP CA 证书删除成功	
+00000306	67.24324799	[68228] 证书安装成功	
+00000307	67.25203705	[68228] endinto create sAcceptConnectons	
+00000315	70.18008423	[68228] Error: IMAP Can not bind to socket	
+00000316	70.18008423	[68228]  error code: 10048	
+00000318	71.18062592	[68228] IMAP PORT :40001!	
+00000319	71.24729919	[5240] [ecagent][7236][INFO] [check]user is offline.	
+00000323	72.07174683	[59596] TePDaemon：monitorUpdate isMonitorServer 1	
+00000324	72.07221985	[59596] TepDaemon enter into GetUpgradeInfo	
+00000326	72.15541077	[59596] TepDaemon the upgradeurl is : https://192.168.30.61/data/clientugrade/WINDOWS/upgrade/64/url64.zip 	
+00000327	72.15547943	[59596] TepDaemon the upgradeurl is : v3.6.1.0A_200113_Win_OFG 	
+00000328	72.15556335	[59596] TepDaemon the rollback is ::0	
+00000329	72.15558624	[59596] TePDaemon：当前为最新版本！！！！	
+00000336	76.14434814	[64420] DlpPolicyCenter:  type=6, name=Realtek PCIe GbE Family Controller, ip=	
+00000337	76.15058899	[64420] DlpPolicyCenter:  type=6, name=Bluetooth Device (Personal Area Network), ip=	
+00000338	76.15352631	[64420] DlpPolicyCenter:  type=6, name=Sangfor SSL VPN CS Support System VNIC, ip=	
+00000339	76.15946198	[64420] DlpPolicyCenter:  type=71, name=Intel(R) Centrino(R) Wireless-N 2230, ip=10.71.26.234	
+00000340	76.16917419	[64420] mac_address=3C970EB1B3EB&ip_address=10.71.26.234&computer_us=N225947&agentid=E1FCCE7B-1200-91A5-5825-2F050FE5552B&terminal_version=v3.6.1.0A_200113_Win_OFG&system_version=Windows 10 64位	
+00000342	76.25792694	[64420] DlpPolicyCenter: 监控点更新成功 ！ 	
+00000343	76.25798035	[64420] DlpPolicyCenter: UpdateCheckEnginePolicy 开始更新策略	
+00000344	76.30462646	[64420] DlpPolicyCenter:　本地策略未发生变化　!!	
+00000345	76.30471039	[64420] DlpPolicyCenter: UpdateCheckEnginePolicy 策略未更新 或者 服务器掉线	
+00000346	76.40412140	[64420] DlpPolicyCenter： 正在获取监控点配置！！！	
+00000347	76.40502167	[64420] DlpPolicyCenter：监控点配置更新完毕！！！ 	
+00000348	76.42794800	[64420] DlpPolicyCenter: UpdateScanPolicy DOPOST ! 	
+00000349	76.42848206	[64420] TepAppMsg: postMsg()	
+00000350	76.42858887	[64420] TepServer: get message iMessageLen:424	
+00000351	76.42861938	[64420] TePServer : Msg->iAsyn = 1 	
+00000352	76.42868805	[64420] TepAppMsg:postMsg() DeviceIoControl SendMessage ok!	
+00000353	76.42874146	[64420] TePServer : MsgBus_OnPost 	
+00000354	76.42878723	[64420] TePServer BUSTEST : FilterReplyMessage end !! 	
+00000355	76.42883301	[64420] TePMsgBusCmpl:  MsgBus_OnPost in ！！	
+00000356	76.42887878	[64420] TepServer: Replied message	
+00000357	76.42933655	[64420] DlpLocationScanner	
+00000358	76.42938995	[64420] TePMsgBuscmpl: app GetXmlMsg in !!	
+00000359	76.42943573	[64420] TePMsgBuscmpl: app GetXmlMsg  out !!	
+00000360	76.43231964	[64420] TepAppMsg: postMsg()	
+00000361	76.43243408	[64420] TepServer: get message iMessageLen:436	
+00000362	76.43247223	[64420] TePServer : Msg->iAsyn = 1 	
+00000363	76.43254089	[64420] TePServer BUSTEST : FilterReplyMessage end !! 	
+00000364	76.43257904	[64420] TepAppMsg:postMsg() DeviceIoControl SendMessage ok!	
+00000365	76.43262482	[64420] TePServer : MsgBus_OnPost 	
+00000366	76.43267822	[64420] TepServer: Replied message	
+00000367	76.43271637	[64420] TePMsgBusCmpl:  MsgBus_OnPost in ！！	
+00000368	76.43277740	[64420] mpzscan:<message>      <header>      <id></id>      <from>DlpPlcCenter</from>      <to>DlpLocationScanner</to>      <type>UpdateAllPolicy</type>      <gentime>2020/03/16 16:07:01</gentime>      <sendtime>2020/03/16 16:07:01</sendtime>      </header><body/></message>	
+00000369	76.43286133	[64420] TePMsgBusCmpl: MsgBus_OnPost OUT !!!! 	
+00000370	76.43306732	[64420] DlpLocationScanner	
+00000371	76.43311310	[64420] TePMsgBuscmpl: app GetXmlMsg in !!	
+00000372	76.43316650	[64420] TePMsgBuscmpl: app GetXmlMsg  out !!	
+00000373	76.43429565	[64420] TePMsgBusCmpl: MsgBus_OnPost OUT !!!! 	
+00000378	78.70869446	[5540] *****upload	
+00000379	78.70876312	[5540] *****sleep	
+00000389	82.95582581	[4652] [ecagent-sp]check if ecagent is running. status : running.	
+00000408	98.71634674	[5540] *****upload	
+00000409	98.71641541	[5540] *****sleep	
+00000411	101.29273224	[5240] [ecagent][7236][INFO] [check]user is offline.	
+00000431	112.99835205	[4652] [ecagent-sp]check if ecagent is running. status : running.	
+00000438	118.38019562	[64420] rpc old version =  , new version = 204261137dd71dc77d11ea18264453 	
+00000439	118.70071411	[68128] FTH: (68128): *** Fault tolerant heap shim applied to current process. This is usually due to previous crashes. ***	
+00000440	118.75152588	[5540] *****upload	
+00000441	118.75160217	[5540] *****sleep	
+00000442	118.84107208	[68128] TepServer:  type=6, name=Realtek PCIe GbE Family Controller, ip=	
+00000443	118.86136627	[68128] TepServer:  type=6, name=Bluetooth Device (Personal Area Network), ip=	
+00000444	118.87271881	[68128] TepServer:  type=6, name=Sangfor SSL VPN CS Support System VNIC, ip=	
+00000445	118.89147949	[68128] TepServer:  type=71, name=Intel(R) Centrino(R) Wireless-N 2230, ip=10.71.26.234	
+00000446	118.92623138	[68128] ModuleLoader: Create Log File Fail!! 	
+00000447	118.92790985	[68128] liu enter the isIn_whiteProcessList	
+00000448	118.92888641	[68128] liu enter the GetRegValue	
+00000449	118.92938232	[68128] *\ofilmcall.exe;*\uclient.exe;*\microsoftedgecp.exe;*\microsoftedge.exe;*\microsoftedgesh.exe;liu enter the WhiteList	
+00000450	118.92949677	[68128] liu in the WhiteList false	
+00000451	118.92991638	[68128] DLPMODULELOADER-LoadModule1: ProcessFileName = c:\program files (x86)\microsoft office\office14\outlook.exe,HookModuleFilePath = C:\Program Files\Topsec\EndpointPlantform\HookModule32\ModuleLoader32.dll 	
+00000452	119.02086639	[68128] ModuleLoad LoadHookModule2 c:\program files (x86)\microsoft office\office14\outlook.exe, C:\Program Files\Topsec\EndpointPlantform\HookModule32\DlpExchangeMailHook.dll error = 126	
+00000461	123.39522552	[68128] Loading C:\Program Files (x86)\Microsoft Office\Office14\OUTLOOK.EXE...	
+00000463	123.42333221	[68128] 使用链式SPI	
+00000464	123.43939972	[68128] [SangforNsp] [GetCurOsVersion] Ver = 6.1	
+00000465	123.43959045	[68128] [SangforNsp] [LoadSangforPrinterDll] Enter	
+00000466	123.43964386	[68128] [SangforNsp] IsOutlookExe GetModuleFileName C:\Program Files (x86)\Microsoft Office\Office14\OUTLOOK.EXE	
+00000467	123.44559479	[68128] [SangforNsp] IsOutlookExe GetModuleFileName C:\Program Files (x86)\Microsoft Office\Office14\OUTLOOK.EXE	
+00000478	129.94848633	[68228] endinto create sAcceptConnectons 2222	
+00000479	129.94976807	[68228] enter into Https_ConnectionThread111 hello start 	
+00000480	129.95036316	[68228] DlpNetProtect:NpRemoteRequest() 	
+00000481	129.95046997	[68228] DlpNetProtect:NpRemoteRequest() DeviceIoControl ret = 1!! 	
+00000484	129.96647644	[68228] xkx:1111111111111111111111111111	
+00000485	129.96652222	[68228] clientssl hello start 	
+00000486	129.96672058	[68228] xkx:44444444444444444444444444444444444444444	
+00000487	129.96707153	[68228] xkx:33333333333333333333333333333333333333	
+00000491	130.47695923	[68228] endinto create sAcceptConnectons 2222	
+00000492	130.47833252	[68228] enter into Https_ConnectionThread111 hello start 	
+00000493	130.47843933	[68228] DlpNetProtect:NpRemoteRequest() 	
+00000494	130.47863770	[68228] DlpNetProtect:NpRemoteRequest() DeviceIoControl ret = 1!! 	
+00000497	130.50015259	[68228] xkx:1111111111111111111111111111	
+00000498	130.50047302	[68228] clientssl hello start 	
+00000499	130.50057983	[68228] xkx:44444444444444444444444444444444444444444	
+00000500	130.50096130	[68228] xkx:33333333333333333333333333333333333333	
+00000502	131.37551880	[5240] [ecagent][7236][INFO] [check]user is offline.	
+00000504	131.43161011	[68228] endinto create sAcceptConnectons 2222	
+00000505	131.43391418	[68228] enter into Https_ConnectionThread111 hello start 	
+00000506	131.43408203	[68228] DlpNetProtect:NpRemoteRequest() 	
+00000507	131.43426514	[68228] DlpNetProtect:NpRemoteRequest() DeviceIoControl ret = 1!! 	
+00000510	131.44622803	[68228] xkx:1111111111111111111111111111	
+00000511	131.44627380	[68228] clientssl hello start 	
+00000512	131.44631958	[68228] xkx:44444444444444444444444444444444444444444	
+00000513	131.44645691	[68228] xkx:33333333333333333333333333333333333333	
+00000516	131.76226807	[68228] endinto create sAcceptConnectons 2222	
+00000517	131.77468872	[68228] enter into Https_ConnectionThread111 hello start 	
+00000518	131.77706909	[68228] DlpNetProtect:NpRemoteRequest() 	
+00000519	131.77732849	[68228] DlpNetProtect:NpRemoteRequest() DeviceIoControl ret = 1!! 	
+00000522	131.79837036	[67804] TepServer:  type=6, name=Realtek PCIe GbE Family Controller, ip=	
+00000523	131.81526184	[68228] xkx:1111111111111111111111111111	
+00000524	131.81542969	[68228] clientssl hello start 	
+00000525	131.81564331	[68228] xkx:44444444444444444444444444444444444444444	
+00000526	131.81607056	[68228] xkx:33333333333333333333333333333333333333	
+00000530	131.86959839	[67804] TepServer:  type=6, name=Bluetooth Device (Personal Area Network), ip=	
+00000531	131.88323975	[67804] TepServer:  type=6, name=Sangfor SSL VPN CS Support System VNIC, ip=	
+00000533	131.93528748	[67804] TepServer:  type=71, name=Intel(R) Centrino(R) Wireless-N 2230, ip=10.71.26.234	
+00000534	132.17138672	[59596] TePDaemon：monitorUpdate isMonitorServer 1	
+00000535	132.17202759	[59596] TepDaemon enter into GetUpgradeInfo	
+00000536	132.17959595	[67804] liu enter the isIn_whiteProcessList	
+00000537	132.17967224	[67804] liu enter the GetRegValue	
+00000538	132.18014526	[67804] *\ofilmcall.exe;*\uclient.exe;*\microsoftedgecp.exe;*\microsoftedge.exe;*\microsoftedgesh.exe;liu enter the WhiteList	
+00000539	132.18023682	[67804] liu in the WhiteList false	
+00000540	132.18061829	[67804] DLPMODULELOADER-LoadModule1: ProcessFileName = c:\windows\syswow64\searchprotocolhost.exe,HookModuleFilePath = C:\Program Files\Topsec\EndpointPlantform\HookModule32\ModuleLoader32.dll 	
+00000542	132.58866882	[59596] TepDaemon the upgradeurl is : https://192.168.30.61/data/clientugrade/WINDOWS/upgrade/64/url64.zip 	
+00000543	132.58874512	[59596] TepDaemon the upgradeurl is : v3.6.1.0A_200113_Win_OFG 	
+00000544	132.58883667	[59596] TepDaemon the rollback is ::0	
+00000545	132.58892822	[59596] TePDaemon：当前为最新版本！！！！	
+00000549	133.06169128	[60992] FTH: (60992): *** Fault tolerant heap shim applied to current process. This is usually due to previous crashes. ***	
+00000550	133.29876709	[60992] TepServer:  type=6, name=Realtek PCIe GbE Family Controller, ip=	
+00000551	133.33271790	[60992] TepServer:  type=6, name=Bluetooth Device (Personal Area Network), ip=	
+00000552	133.36161804	[60992] TepServer:  type=6, name=Sangfor SSL VPN CS Support System VNIC, ip=	
+00000553	133.39190674	[60992] TepServer:  type=71, name=Intel(R) Centrino(R) Wireless-N 2230, ip=10.71.26.234	
+00000554	133.44020081	[60992] ModuleLoader: Create Log File Fail!! 	
+00000555	133.55169678	[60992] liu enter the isIn_whiteProcessList	
+00000556	133.55183411	[60992] liu enter the GetRegValue	
+00000557	133.55236816	[60992] *\ofilmcall.exe;*\uclient.exe;*\microsoftedgecp.exe;*\microsoftedge.exe;*\microsoftedgesh.exe;liu enter the WhiteList	
+00000558	133.55249023	[60992] liu in the WhiteList false	
+00000559	133.55334473	[60992] DLPMODULELOADER-LoadModule1: ProcessFileName = c:\program files (x86)\sogouinput\9.2.0.2756\sgtool.exe,HookModuleFilePath = C:\Program Files\Topsec\EndpointPlantform\HookModule32\ModuleLoader32.dll 	
+00000567	133.84037781	[68228] endinto create sAcceptConnectons 2222	
+00000568	133.85783386	[68228] enter into Https_ConnectionThread111 hello start 	
+00000569	133.85916138	[68228] DlpNetProtect:NpRemoteRequest() 	
+00000570	133.85998535	[68228] DlpNetProtect:NpRemoteRequest() DeviceIoControl ret = 1!! 	
+00000573	133.88681030	[68228] xkx:1111111111111111111111111111	
+00000574	133.88888550	[68228] clientssl hello start 	
+00000575	133.88903809	[68228] xkx:44444444444444444444444444444444444444444	
+00000576	133.88923645	[68228] xkx:33333333333333333333333333333333333333	
+00000579	134.04553223	[60992] Loading C:\Program Files (x86)\SogouInput\9.2.0.2756\SGTool.exe...	
+00000581	134.07878113	[60992] 使用链式SPI	
+00000582	134.10755920	[60992] [SangforNsp] [GetCurOsVersion] Ver = 6.1	
+00000583	134.10784912	[60992] [SangforNsp] [LoadSangforPrinterDll] Enter	
+00000587	134.79977417	[68228] endinto create sAcceptConnectons 2222	
+00000588	134.81518555	[68228] enter into Https_ConnectionThread111 hello start 	
+00000589	134.81544495	[68228] DlpNetProtect:NpRemoteRequest() 	
+00000590	134.81575012	[68228] DlpNetProtect:NpRemoteRequest() DeviceIoControl ret = 1!! 	
+00000593	134.83958435	[68228] xkx:1111111111111111111111111111	
+00000594	134.83981323	[68228] clientssl hello start 	
+00000595	134.84117126	[68228] xkx:44444444444444444444444444444444444444444	
+00000596	134.84169006	[68228] xkx:33333333333333333333333333333333333333	
+00000601	135.26567078	[68228] endinto create sAcceptConnectons 2222	
+00000602	135.32130432	[68228] enter into Https_ConnectionThread111 hello start 	
+00000603	135.33729553	[68228] DlpNetProtect:NpRemoteRequest() 	
+00000604	135.35133362	[68228] DlpNetProtect:NpRemoteRequest() DeviceIoControl ret = 1!! 	
+00000607	135.38497925	[68228] xkx:1111111111111111111111111111	
+00000608	135.38507080	[68228] clientssl hello start 	
+00000609	135.38513184	[68228] xkx:44444444444444444444444444444444444444444	
+00000610	135.38531494	[68228] xkx:33333333333333333333333333333333333333	
+00000614	135.68139648	[68228] endinto create sAcceptConnectons 2222	
+00000615	135.68234253	[68228] enter into Https_ConnectionThread111 hello start 	
+00000616	135.68244934	[68228] DlpNetProtect:NpRemoteRequest() 	
+00000617	135.68270874	[68228] DlpNetProtect:NpRemoteRequest() DeviceIoControl ret = 1!! 	
+00000620	135.76469421	[68228] xkx:1111111111111111111111111111	
+00000621	135.77528381	[68228] clientssl hello start 	
+00000622	135.82208252	[68228] xkx:44444444444444444444444444444444444444444	
+00000623	135.84506226	[68228] xkx:33333333333333333333333333333333333333	
+00000625	136.49819946	[64420] DlpPolicyCenter:  type=6, name=Realtek PCIe GbE Family Controller, ip=	
+00000626	136.51177979	[64420] DlpPolicyCenter:  type=6, name=Bluetooth Device (Personal Area Network), ip=	
+00000627	136.51875305	[64420] DlpPolicyCenter:  type=6, name=Sangfor SSL VPN CS Support System VNIC, ip=	
+00000628	136.52786255	[64420] DlpPolicyCenter:  type=71, name=Intel(R) Centrino(R) Wireless-N 2230, ip=10.71.26.234	
+00000629	136.54609680	[64420] mac_address=3C970EB1B3EB&ip_address=10.71.26.234&computer_us=N225947&agentid=E1FCCE7B-1200-91A5-5825-2F050FE5552B&terminal_version=v3.6.1.0A_200113_Win_OFG&system_version=Windows 10 64位	
+00000631	136.63304138	[64420] DlpPolicyCenter: 监控点更新成功 ！ 	
+00000632	136.63310242	[64420] DlpPolicyCenter: UpdateCheckEnginePolicy 开始更新策略	
+00000633	136.67837524	[64420] DlpPolicyCenter:　本地策略未发生变化　!!	
+00000634	136.67848206	[64420] DlpPolicyCenter: UpdateCheckEnginePolicy 策略未更新 或者 服务器掉线	
+00000636	136.83239746	[64420] DlpPolicyCenter： 正在获取监控点配置！！！	
+00000637	136.83401489	[64420] DlpPolicyCenter：监控点配置更新完毕！！！ 	
+00000638	136.85748291	[64420] TepAppMsg: postMsg()	
+00000639	136.85791016	[64420] TepServer: get message iMessageLen:418	
+00000640	136.85800171	[64420] TePServer : Msg->iAsyn = 1 	
+00000641	136.85809326	[64420] TePServer BUSTEST : FilterReplyMessage end !! 	
+00000642	136.85813904	[64420] TePServer : MsgBus_OnPost 	
+00000643	136.85816956	[64420] TepAppMsg:postMsg() DeviceIoControl SendMessage ok!	
+00000644	136.85821533	[64420] TepServer: Replied message	
+00000645	136.85826111	[64420] TePMsgBusCmpl:  MsgBus_OnPost in ！！	
+00000646	136.85850525	[64420] DlpLocationScanner	
+00000647	136.85855103	[64420] TePMsgBuscmpl: app GetXmlMsg in !!	
+00000648	136.85859680	[64420] TePMsgBuscmpl: app GetXmlMsg  out !!	
+00000649	136.86022949	[64420] TePMsgBusCmpl: MsgBus_OnPost OUT !!!! 	
+00000654	138.31195068	[4652] [ecagent-sp]Import Cert and Enable Loopbackexempt.	
+00000655	138.31817627	[4652] [GetCertName]Cert Name: Sangfor Technologies Co.,Ltd	
+00000656	138.31825256	[4652] [HasSangforSign]IsSangforSign return:1	
+00000657	138.31900024	[4652] [ecagent-sp]validate session done.	
+00000658	138.36825562	[4652] [ecagent-sp]Import Cert and Enable Loopbackexempt for NT 6.	
+00000659	138.37213135	[4652] [GetCertName]Cert Name: Sangfor Technologies Co.,Ltd	
+00000660	138.37226868	[4652] [HasSangforSign]IsSangforSign return:1	
+00000661	138.51573181	[10268] TepServer:  type=6, name=Realtek PCIe GbE Family Controller, ip=	
+00000662	138.54638672	[10268] TepServer:  type=6, name=Bluetooth Device (Personal Area Network), ip=	
+00000663	138.56338501	[10268] TepServer:  type=6, name=Sangfor SSL VPN CS Support System VNIC, ip=	
+00000664	138.61271667	[10268] TepServer:  type=71, name=Intel(R) Centrino(R) Wireless-N 2230, ip=10.71.26.234	
+00000665	138.64346313	[6468] [SangforNspX64] [LoadSangforPrinterDll]CheckIsSupportOS failed	
+00000666	138.64378357	[67372] [ecagent][7504][INFO] importing cert to sys-db	
+00000667	138.64390564	[67372] [ecagent][7504][INFO] import_cert_to_sys_db enter.	
+00000668	138.66197205	[10268] ModuleLoader: Create Log File Fail!! 	
+00000669	138.73719788	[67372] [ecagent][7504][INFO] import cert to sys db successfully.	
+00000670	138.82151794	[10268] liu enter the isIn_whiteProcessList	
+00000671	138.82157898	[10268] liu enter the GetRegValue	
+00000672	138.82203674	[10268] *\ofilmcall.exe;*\uclient.exe;*\microsoftedgecp.exe;*\microsoftedge.exe;*\microsoftedgesh.exe;liu enter the WhiteList	
+00000673	138.82214355	[10268] liu in the WhiteList false	
+00000674	138.82252502	[10268] DLPMODULELOADER-LoadModule1: ProcessFileName = c:\program files (x86)\sangfor\ssl\ecagent\ecagent.exe,HookModuleFilePath = C:\Program Files\Topsec\EndpointPlantform\HookModule32\ModuleLoader32.dll 	
+00000675	138.84127808	[10268] [ecagent][65600][INFO] found firefox profiles : C:\Users\N225947\AppData\Roaming\Mozilla\Firefox\Profiles\gvsbpcik.default\	
+00000676	138.86097717	[10268] [ecagent][65600][INFO] nss cert exist.	
+00000677	138.86685181	[5540] *****upload	
+00000678	138.86689758	[5540] *****sleep	
+00000681	141.06768799	[68228] endinto create sAcceptConnectons 2222	
+00000682	141.06790161	[68228] enter into Https_ConnectionThread111 hello start 	
+00000683	141.06796265	[68228] DlpNetProtect:NpRemoteRequest() 	
+00000684	141.06808472	[68228] DlpNetProtect:NpRemoteRequest() DeviceIoControl ret = 1!! 	
+00000687	141.07435608	[68228] xkx:1111111111111111111111111111	
+00000688	141.07438660	[68228] clientssl hello start 	
+00000689	141.07440186	[68228] xkx:44444444444444444444444444444444444444444	
+00000690	141.07447815	[68228] xkx:33333333333333333333333333333333333333	
+00000699	143.39474487	[4652] [ecagent-sp]ecagent status : exist, gle : 234	
+00000700	143.39912415	[4652] [ecagent-sp]check if ecagent is running. status : running.	
+00000702	143.49613953	[68228] endinto create sAcceptConnectons 2222	
+00000703	143.49690247	[68228] enter into Https_ConnectionThread111 hello start 	
+00000704	143.49694824	[68228] DlpNetProtect:NpRemoteRequest() 	
+00000705	143.49713135	[68228] DlpNetProtect:NpRemoteRequest() DeviceIoControl ret = 1!! 	
+00000709	143.57966614	[68228] endinto create sAcceptConnectons 2222	
+00000710	143.58016968	[68228] enter into Https_ConnectionThread111 hello start 	
+00000711	143.58024597	[68228] DlpNetProtect:NpRemoteRequest() 	
+00000712	143.58052063	[68228] DlpNetProtect:NpRemoteRequest() DeviceIoControl ret = 1!! 	
+00000715	143.61933899	[68228] xkx:1111111111111111111111111111	
+00000716	143.62010193	[68228] clientssl hello start 	
+00000717	143.62020874	[68228] xkx:44444444444444444444444444444444444444444	
+00000718	143.62043762	[68228] xkx:33333333333333333333333333333333333333	
+00000722	143.76570129	[68228] xkx:1111111111111111111111111111	
+00000723	143.76582336	[68228] clientssl hello start 	
+00000724	143.76586914	[68228] xkx:44444444444444444444444444444444444444444	
+00000725	143.76602173	[68228] xkx:enter into sslprocess	
+00000728	145.42614746	[68228] *.events.data.microsoft.com	
+00000730	145.47227478	[68228] all clientoper  end 	
+00000737	151.40386963	[68228] endinto create sAcceptConnectons 2222	
+00000738	151.40423584	[68228] enter into Https_ConnectionThread111 hello start 	
+00000739	151.40434265	[68228] DlpNetProtect:NpRemoteRequest() 	
+00000740	151.40452576	[68228] DlpNetProtect:NpRemoteRequest() DeviceIoControl ret = 1!! 	
+00000743	151.41694641	[68228] xkx:1111111111111111111111111111	
+00000744	151.41699219	[68228] clientssl hello start 	
+00000745	151.41703796	[68228] xkx:44444444444444444444444444444444444444444	
+00000746	151.41714478	[68228] xkx:33333333333333333333333333333333333333	
+00000761	158.87628174	[5540] *****upload	
+00000762	158.87635803	[5540] *****sleep	
+00000764	161.47558594	[5240] [ecagent][7236][INFO] [check]user is offline.	
+00000778	168.86413574	[68228] endinto create sAcceptConnectons 2222	
+00000779	168.86436462	[68228] enter into Https_ConnectionThread111 hello start 	
+00000780	168.86439514	[68228] DlpNetProtect:NpRemoteRequest() 	
+00000781	168.86451721	[68228] DlpNetProtect:NpRemoteRequest() DeviceIoControl ret = 1!! 	
+00000784	168.95489502	[68228] xkx:1111111111111111111111111111	
+00000785	168.95500183	[68228] clientssl hello start 	
+00000786	168.95506287	[68228] xkx:44444444444444444444444444444444444444444	
+00000787	168.95524597	[68228] xkx:enter into sslprocess	
+00000788	169.12516785	[68228] settings-win.data.microsoft.com	
+00000789	169.25848389	[68228] xkx:enter into processrequest	
+00000790	169.69747925	[65400] [SangforNspX64] [LoadSangforPrinterDll]CheckIsSupportOS failed	
+00000792	169.75143433	[68228] endinto create sAcceptConnectons 2222	
+00000793	169.75181580	[68228] enter into Https_ConnectionThread111 hello start 	
+00000794	169.75187683	[68228] DlpNetProtect:NpRemoteRequest() 	
+00000795	169.75204468	[68228] DlpNetProtect:NpRemoteRequest() DeviceIoControl ret = 1!! 	
+00000798	169.77508545	[68228] xkx:1111111111111111111111111111	
+00000799	169.77511597	[68228] clientssl hello start 	
+00000800	169.77514648	[68228] xkx:44444444444444444444444444444444444444444	
+00000801	169.77526855	[68228] xkx:33333333333333333333333333333333333333	
+00000804	171.49626160	[68228] xkx:enter into processrequest	
+00000808	172.66648865	[68228] xkx:enter into processrequest	
+00000812	173.42851257	[4652] [ecagent-sp]check if ecagent is running. status : running.	
+00000819	178.38903809	[64420] rpc old version =  , new version = 204261137dd71dc77d11ea18264453 	
+00000820	178.88479614	[5540] *****upload	
+00000821	178.88485718	[5540] *****sleep	
+00000836	191.48709106	[5240] [ecagent][7236][INFO] [check]user is offline.	
+00000840	192.58937073	[59596] TePDaemon：monitorUpdate isMonitorServer 1	
+00000841	192.58973694	[59596] TepDaemon enter into GetUpgradeInfo	
+00000843	192.66230774	[59596] TepDaemon the upgradeurl is : https://192.168.30.61/data/clientugrade/WINDOWS/upgrade/64/url64.zip 	
+00000844	192.66238403	[59596] TepDaemon the upgradeurl is : v3.6.1.0A_200113_Win_OFG 	
+00000845	192.66242981	[59596] TepDaemon the rollback is ::0	
+00000846	192.66247559	[59596] TePDaemon：当前为最新版本！！！！	
+00000853	196.90571594	[64420] DlpPolicyCenter:  type=6, name=Realtek PCIe GbE Family Controller, ip=	
+00000854	196.91319275	[64420] DlpPolicyCenter:  type=6, name=Bluetooth Device (Personal Area Network), ip=	
+00000855	196.91575623	[64420] DlpPolicyCenter:  type=6, name=Sangfor SSL VPN CS Support System VNIC, ip=	
+00000856	196.92120361	[64420] DlpPolicyCenter:  type=71, name=Intel(R) Centrino(R) Wireless-N 2230, ip=10.71.26.234	
+00000857	196.93128967	[64420] mac_address=3C970EB1B3EB&ip_address=10.71.26.234&computer_us=N225947&agentid=E1FCCE7B-1200-91A5-5825-2F050FE5552B&terminal_version=v3.6.1.0A_200113_Win_OFG&system_version=Windows 10 64位	
+00000859	197.01870728	[64420] DlpPolicyCenter: 监控点更新成功 ！ 	
+00000860	197.01873779	[64420] DlpPolicyCenter: UpdateCheckEnginePolicy 开始更新策略	
+00000861	197.06175232	[64420] DlpPolicyCenter:　本地策略未发生变化　!!	
+00000862	197.06184387	[64420] DlpPolicyCenter: UpdateCheckEnginePolicy 策略未更新 或者 服务器掉线	
+00000863	197.20819092	[64420] DlpPolicyCenter： 正在获取监控点配置！！！	
+00000864	197.21006775	[64420] DlpPolicyCenter：监控点配置更新完毕！！！ 	
+00000865	197.22639465	[64420] DlpPolicyCenter: UpdateScanPolicy DOPOST ! 	
+00000866	197.22720337	[64420] TepAppMsg: postMsg()	
+00000867	197.22734070	[64420] TepServer: get message iMessageLen:424	
+00000868	197.22744751	[64420] TePServer : Msg->iAsyn = 1 	
+00000869	197.22753906	[64420] TepAppMsg:postMsg() DeviceIoControl SendMessage ok!	
+00000870	197.22760010	[64420] TePServer : MsgBus_OnPost 	
+00000871	197.22776794	[64420] TePServer BUSTEST : FilterReplyMessage end !! 	
+00000872	197.22779846	[64420] TePMsgBusCmpl:  MsgBus_OnPost in ！！	
+00000873	197.22785950	[64420] TepServer: Replied message	
+00000874	197.22816467	[64420] DlpLocationScanner	
+00000875	197.22821045	[64420] TePMsgBuscmpl: app GetXmlMsg in !!	
+00000876	197.22825623	[64420] TePMsgBuscmpl: app GetXmlMsg  out !!	
+00000877	197.23200989	[64420] TepAppMsg: postMsg()	
+00000878	197.23222351	[64420] TepServer: get message iMessageLen:436	
+00000879	197.23229980	[64420] TePServer : Msg->iAsyn = 1 	
+00000880	197.23239136	[64420] TePServer BUSTEST : FilterReplyMessage end !! 	
+00000881	197.23260498	[64420] TepAppMsg:postMsg() DeviceIoControl SendMessage ok!	
+00000882	197.23265076	[64420] TePServer : MsgBus_OnPost 	
+00000883	197.23269653	[64420] TepServer: Replied message	
+00000884	197.23275757	[64420] TePMsgBusCmpl:  MsgBus_OnPost in ！！	
+00000885	197.23286438	[64420] mpzscan:<message>      <header>      <id></id>      <from>DlpPlcCenter</from>      <to>DlpLocationScanner</to>      <type>UpdateAllPolicy</type>      <gentime>2020/03/16 16:09:02</gentime>      <sendtime>2020/03/16 16:09:02</sendtime>      </header><body/></message>	
+00000886	197.23294067	[64420] TePMsgBusCmpl: MsgBus_OnPost OUT !!!! 	
+00000887	197.23310852	[64420] DlpLocationScanner	
+00000888	197.23315430	[64420] TePMsgBuscmpl: app GetXmlMsg in !!	
+00000889	197.23323059	[64420] TePMsgBuscmpl: app GetXmlMsg  out !!	
+00000890	197.23437500	[64420] TePMsgBusCmpl: MsgBus_OnPost OUT !!!! 	
+00000895	198.89253235	[5540] *****upload	
+00000896	198.89260864	[5540] *****sleep	
+00000905	203.45774841	[4652] [ecagent-sp]check if ecagent is running. status : running.	
+00000921	214.55435181	[68228] endinto create sAcceptConnectons 2222	
+00000922	214.55503845	[68228] enter into Https_ConnectionThread111 hello start 	
+00000923	214.55514526	[68228] DlpNetProtect:NpRemoteRequest() 	
+00000924	214.55601501	[68228] DlpNetProtect:NpRemoteRequest() DeviceIoControl ret = 1!! 	
+00000927	214.57466125	[68228] xkx:1111111111111111111111111111	
+00000928	214.57470703	[68228] clientssl hello start 	
+00000929	214.57475281	[68228] xkx:44444444444444444444444444444444444444444	
+00000930	214.57487488	[68228] xkx:33333333333333333333333333333333333333	
+00000937	218.90527344	[5540] *****upload	
+00000938	218.90534973	[5540] *****sleep	
+00000940	221.50492859	[5240] [ecagent][7236][INFO] [check]user is offline.	
+00000951	225.34318542	[68228] endinto create sAcceptConnectons 2222	
+00000952	225.34346008	[68228] enter into Https_ConnectionThread111 hello start 	
+00000953	225.34352112	[68228] DlpNetProtect:NpRemoteRequest() 	
+00000954	225.34379578	[68228] DlpNetProtect:NpRemoteRequest() DeviceIoControl ret = 1!! 	
+00000957	225.35670471	[68228] xkx:1111111111111111111111111111	
+00000958	225.35675049	[68228] clientssl hello start 	
+00000959	225.35679626	[68228] xkx:44444444444444444444444444444444444444444	
+00000960	225.35693359	[68228] xkx:33333333333333333333333333333333333333	
+00000973	232.77885437	[68228] all clientoper  end 	
+00000974	233.48846436	[4652] [ecagent-sp]check if ecagent is running. status : running.	
+00000981	238.39506531	[64420] rpc old version =  , new version = 204261137dd71dc77d11ea18264453 	
+00000982	238.91415405	[5540] *****upload	
+00000983	238.91423035	[5540] *****sleep	
+00000998	249.28453064	[68228] all clientoper  end 	
+00001000	251.51805115	[5240] [ecagent][7236][INFO] [check]user is offline.	
+00001002	251.62969971	[68228] all clientoper  end 	
+00001006	252.66357422	[59596] TePDaemon：monitorUpdate isMonitorServer 1	
+00001007	252.66395569	[59596] TepDaemon enter into GetUpgradeInfo	
+00001009	252.74588013	[59596] TepDaemon the upgradeurl is : https://192.168.30.61/data/clientugrade/WINDOWS/upgrade/64/url64.zip 	
+00001010	252.74595642	[59596] TepDaemon the upgradeurl is : v3.6.1.0A_200113_Win_OFG 	
+00001011	252.74603271	[59596] TepDaemon the rollback is ::0	
+00001012	252.74609375	[59596] TePDaemon：当前为最新版本！！！！	
+00001019	254.29570007	[68228] all clientoper  end 	
+00001020	254.29577637	[68228] all clientoper  end 	
+00001023	257.28320313	[64420] DlpPolicyCenter:  type=6, name=Realtek PCIe GbE Family Controller, ip=	
+00001024	257.29089355	[64420] DlpPolicyCenter:  type=6, name=Bluetooth Device (Personal Area Network), ip=	
+00001025	257.29394531	[64420] DlpPolicyCenter:  type=6, name=Sangfor SSL VPN CS Support System VNIC, ip=	
+00001026	257.30010986	[64420] DlpPolicyCenter:  type=71, name=Intel(R) Centrino(R) Wireless-N 2230, ip=10.71.26.234	
+00001027	257.30859375	[64420] mac_address=3C970EB1B3EB&ip_address=10.71.26.234&computer_us=N225947&agentid=E1FCCE7B-1200-91A5-5825-2F050FE5552B&terminal_version=v3.6.1.0A_200113_Win_OFG&system_version=Windows 10 64位	
+00001029	257.39654541	[64420] DlpPolicyCenter: 监控点更新成功 ！ 	
+00001030	257.39666748	[64420] DlpPolicyCenter: UpdateCheckEnginePolicy 开始更新策略	
+00001031	257.44473267	[64420] DlpPolicyCenter:　本地策略未发生变化　!!	
+00001032	257.44488525	[64420] DlpPolicyCenter: UpdateCheckEnginePolicy 策略未更新 或者 服务器掉线	
+00001033	257.56872559	[64420] DlpPolicyCenter： 正在获取监控点配置！！！	
+00001034	257.57009888	[64420] DlpPolicyCenter：监控点配置更新完毕！！！ 	
+00001035	257.59527588	[64420] TepAppMsg: postMsg()	
+00001036	257.59542847	[64420] TepServer: get message iMessageLen:418	
+00001037	257.59548950	[64420] TePServer : Msg->iAsyn = 1 	
+00001038	257.59558105	[64420] TePServer : MsgBus_OnPost 	
+00001039	257.59564209	[64420] TepAppMsg:postMsg() DeviceIoControl SendMessage ok!	
+00001040	257.59570313	[64420] TePServer BUSTEST : FilterReplyMessage end !! 	
+00001041	257.59576416	[64420] TePMsgBusCmpl:  MsgBus_OnPost in ！！	
+00001042	257.59579468	[64420] TepServer: Replied message	
+00001043	257.59606934	[64420] DlpLocationScanner	
+00001044	257.59609985	[64420] TePMsgBuscmpl: app GetXmlMsg in !!	
+00001045	257.59616089	[64420] TePMsgBuscmpl: app GetXmlMsg  out !!	
+00001046	257.59765625	[64420] TePMsgBusCmpl: MsgBus_OnPost OUT !!!! 	
+00001051	258.51345825	[4652] [ecagent-sp]Import Cert and Enable Loopbackexempt.	
+00001052	258.51736450	[4652] [GetCertName]Cert Name: Sangfor Technologies Co.,Ltd	
+00001053	258.51742554	[4652] [HasSangforSign]IsSangforSign return:1	
+00001054	258.51782227	[4652] [ecagent-sp]validate session done.	
+00001055	258.53982544	[4652] [ecagent-sp]Import Cert and Enable Loopbackexempt for NT 6.	
+00001056	258.54592896	[4652] [GetCertName]Cert Name: Sangfor Technologies Co.,Ltd	
+00001057	258.54602051	[4652] [HasSangforSign]IsSangforSign return:1	
+00001058	258.62725830	[63676] TepServer:  type=6, name=Realtek PCIe GbE Family Controller, ip=	
+00001059	258.64916992	[63676] TepServer:  type=6, name=Bluetooth Device (Personal Area Network), ip=	
+00001060	258.66082764	[63676] TepServer:  type=6, name=Sangfor SSL VPN CS Support System VNIC, ip=	
+00001061	258.68383789	[63676] TepServer:  type=71, name=Intel(R) Centrino(R) Wireless-N 2230, ip=10.71.26.234	
+00001062	258.72518921	[63676] ModuleLoader: Create Log File Fail!! 	
+00001063	258.72521973	[61632] [ecagent][63784][INFO] importing cert to sys-db	
+00001064	258.73086548	[61632] [ecagent][63784][INFO] import_cert_to_sys_db enter.	
+00001065	258.79257202	[61632] [ecagent][63784][INFO] import cert to sys db successfully.	
+00001066	258.82727051	[63676] liu enter the isIn_whiteProcessList	
+00001067	258.82736206	[63676] liu enter the GetRegValue	
+00001068	258.82781982	[63676] *\ofilmcall.exe;*\uclient.exe;*\microsoftedgecp.exe;*\microsoftedge.exe;*\microsoftedgesh.exe;liu enter the WhiteList	
+00001069	258.82794189	[63676] liu in the WhiteList false	
+00001070	258.82836914	[63676] DLPMODULELOADER-LoadModule1: ProcessFileName = c:\program files (x86)\sangfor\ssl\ecagent\ecagent.exe,HookModuleFilePath = C:\Program Files\Topsec\EndpointPlantform\HookModule32\ModuleLoader32.dll 	
+00001071	258.85006714	[63676] [ecagent][14636][INFO] found firefox profiles : C:\Users\N225947\AppData\Roaming\Mozilla\Firefox\Profiles\gvsbpcik.default\	
+00001072	258.87765503	[63676] [ecagent][14636][INFO] nss cert exist.	
+00001073	258.92807007	[5540] *****upload	
+00001074	258.92816162	[5540] *****sleep	
+00001076	259.28295898	[68228] all clientoper  end 	
+00001085	263.57656860	[4652] [ecagent-sp]ecagent status : exist, gle : 234	
+00001086	263.58157349	[4652] [ecagent-sp]check if ecagent is running. status : running.	
